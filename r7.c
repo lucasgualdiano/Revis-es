@@ -32,6 +32,7 @@ void main(){
 		    	break;
 		}
 	}
+	
 	printf("\nAlunos no 1*ano: %i",n1);
 	printf("\nAlunos no 2*ano: %i",n2);
 	printf("\nAlunos no 3*ano: %i",n3);
