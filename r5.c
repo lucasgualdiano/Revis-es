@@ -8,5 +8,6 @@ void main(){
 		x=x+3;
 		printf("\n%i",x);
 	}
+	
 	getchar();
 }
