@@ -12,6 +12,7 @@ void main(){
 		vt = vt + v;
 		
 	}
+	
 	f=vt*1.15;
 	printf("Valor a pagar: R$%.2f",f);
 	getchar();
